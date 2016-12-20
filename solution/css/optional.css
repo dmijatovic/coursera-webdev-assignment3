@@ -1,0 +1,13 @@
+
+body{
+    padding-top:70px;
+}
+
+section{
+    padding:20px;
+    text-align:justify;
+}
+
+section p{
+    background-color:"red";
+}
